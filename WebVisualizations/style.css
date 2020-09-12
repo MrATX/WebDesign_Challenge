@@ -1,0 +1,48 @@
+.navbar{
+    background-color:rgb(88, 21, 88);
+}
+
+.navbar-brand{
+    color:gold;
+}
+
+.nav-link{
+    color:gold;
+}
+
+.dropdown-menu{
+    background-color:rgb(88, 21, 88);
+}
+
+.dropdown-item{
+    color:gold;
+}
+
+#index-header{
+    margin-top:75px;
+    margin-left:50px;
+    color:teal;
+}
+
+header-row{
+    border-bottom:2px solid gray;
+    border-bottom-style:ridge;
+}
+
+#index-container{
+    background-color:white;
+}
+
+.box{
+    margin-top:5px;
+}
+
+.fade-effect1{
+    display:block;
+    border:none;
+    color:white;
+    height:1px;
+    width:100%;
+    background:black;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 550, from(#000), to(#fff));
+}
