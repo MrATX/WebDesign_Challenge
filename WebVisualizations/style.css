@@ -47,22 +47,23 @@ header-row{
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 550, from(#000), to(#fff));
 }
 
-.comp-header{
-    text-align:center;
-    color:teal;
-}
-
 .comp-col{
     margin-bottom:50px;
 }
 
-#comp-title{
+#page-title{
     text-align:left;
     color:teal;
     font-style:bold;
-    margin-top:25px;
+    margin-top:15px;
+    margin-left:15px;
 }
 
 .divider-bar{
     border-bottom:10px solid maroon;
+}
+
+.comp-header{
+    text-align:center;
+    color:teal;
 }
