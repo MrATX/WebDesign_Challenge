@@ -18,9 +18,7 @@
     color:gold;
 }
 
-#index-header{
-    margin-top:75px;
-    margin-left:50px;
+#index-title{
     color:teal;
 }
 
@@ -66,4 +64,8 @@ header-row{
 .comp-header{
     text-align:center;
     color:teal;
+}
+
+#testerz{
+    align-content: ;
 }
