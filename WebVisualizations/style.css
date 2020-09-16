@@ -20,6 +20,8 @@
 
 #index-title{
     color:teal;
+    margin-left:10px;
+    margin-top:10px;
 }
 
 header-row{
@@ -64,4 +66,13 @@ header-row{
 .comp-header{
     text-align:center;
     color:teal;
+}
+
+#active-vis{
+    border:2px solid teal;
+}
+
+#sidebar-col{
+    margin-left:5px;
+    margin-right:5px;
 }
